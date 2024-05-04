@@ -1,0 +1,11 @@
+p {
+	color: yellow;
+}
+
+
+//combining element to target
+//class name inner-box with child/descendant p tag
+
+.inner-box p {
+	color:white;
+}
